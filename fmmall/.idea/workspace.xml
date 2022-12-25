@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62757e8d-6895-46b1-99a8-25359f379e33" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="mapper" />
+        <option value="Enum" />
+        <option value="logback-spring" />
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1r6inCJtGVmverxf2OIpibz5Ufp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15917969" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.qfedu.fmmall" />
+      <recent name="com.qfedu.fmmall.dao" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.qfedu.fmmall" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qfedu.fmmall.entity" />
+      <recent name="com.qfedu.fmmall.dao" />
+      <recent name="com.qfedu.fmmall.service.job" />
+      <recent name="dao" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java2010\workspace\part4\fmmall\common\src\main\java\com\qfedu\fmmall\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ApiApplication">
+    <configuration name="TestMD5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xxxx.TestMD5" />
+      <module name="common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiApplicationTest.testshoppingcontrol" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qfedu.fmmall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qfedu.fmmall" />
+      <option name="MAIN_CLASS_NAME" value="com.qfedu.fmmall.ApiApplicationTest" />
+      <option name="METHOD_NAME" value="testshoppingcontrol" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiApplicationTest.testshoppingservice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qfedu.fmmall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qfedu.fmmall" />
+      <option name="MAIN_CLASS_NAME" value="com.qfedu.fmmall.ApiApplicationTest" />
+      <option name="METHOD_NAME" value="testshoppingservice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImportProductES.testcontextloads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qfedu.fmmall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qfedu.fmmall" />
+      <option name="MAIN_CLASS_NAME" value="com.qfedu.fmmall.ImportProductES" />
+      <option name="METHOD_NAME" value="testcontextloads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImportProductES.testcreateindex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qfedu.fmmall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qfedu.fmmall" />
+      <option name="MAIN_CLASS_NAME" value="com.qfedu.fmmall.ImportProductES" />
+      <option name="METHOD_NAME" value="testcreateindex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qfedu.fmmall.ApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ImportProductES.testcreateindex" />
+        <item itemvalue="JUnit.ImportProductES.testcontextloads" />
+        <item itemvalue="JUnit.ApiApplicationTest.testshoppingservice" />
+        <item itemvalue="JUnit.ApiApplicationTest.testshoppingcontrol" />
+        <item itemvalue="Application.TestMD5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBeansView">
+    <option name="showModules" value="false" />
+    <option name="showFilesets" value="false" />
+    <option name="showImplicitBeans" value="false" />
+    <option name="showInfrastructureBeans" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62757e8d-6895-46b1-99a8-25359f379e33" name="Default Changelist" comment="" />
+      <created>1618303104362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618303104362</updated>
+      <workItem from="1618303108760" duration="2904000" />
+      <workItem from="1618326178021" duration="1807000" />
+      <workItem from="1618363321589" duration="11134000" />
+      <workItem from="1618448963678" duration="15454000" />
+      <workItem from="1618535285847" duration="11226000" />
+      <workItem from="1618798558793" duration="7191000" />
+      <workItem from="1619109678837" duration="755000" />
+      <workItem from="1619140287828" duration="14402000" />
+      <workItem from="1619286575531" duration="646000" />
+      <workItem from="1619312775715" duration="12056000" />
+      <workItem from="1619399284111" duration="8274000" />
+      <workItem from="1619449862149" duration="712000" />
+      <workItem from="1619485822026" duration="6951000" />
+      <workItem from="1619573421760" duration="10834000" />
+      <workItem from="1619657908251" duration="8659000" />
+      <workItem from="1619717966397" duration="1402000" />
+      <workItem from="1619722012059" duration="3000" />
+      <workItem from="1619744645727" duration="12125000" />
+      <workItem from="1620263303499" duration="18819000" />
+      <workItem from="1620349724010" duration="13548000" />
+      <workItem from="1620435262884" duration="13568000" />
+      <workItem from="1620462867441" duration="2492000" />
+      <workItem from="1620577444047" duration="1226000" />
+      <workItem from="1620608680752" duration="13194000" />
+      <workItem from="1620695817384" duration="1532000" />
+      <workItem from="1620698892933" duration="8011000" />
+      <workItem from="1620781727415" duration="2237000" />
+      <workItem from="1620898816396" duration="1134000" />
+      <workItem from="1620954700250" duration="7433000" />
+      <workItem from="1621180109767" duration="523000" />
+      <workItem from="1667209865309" duration="624000" />
+      <workItem from="1667210636712" duration="3047000" />
+      <workItem from="1667223646430" duration="9000" />
+      <workItem from="1667278565818" duration="18267000" />
+      <workItem from="1667362102691" duration="664000" />
+      <workItem from="1667365230795" duration="266000" />
+      <workItem from="1667370484754" duration="35000" />
+      <workItem from="1667371595581" duration="79000" />
+      <workItem from="1667371694852" duration="293000" />
+      <workItem from="1667372287230" duration="3901000" />
+      <workItem from="1667476316702" duration="3256000" />
+      <workItem from="1667735987915" duration="72000" />
+      <workItem from="1667989489599" duration="1830000" />
+      <workItem from="1667992618214" duration="4356000" />
+      <workItem from="1667997349553" duration="2029000" />
+      <workItem from="1668133700400" duration="5119000" />
+      <workItem from="1668151266483" duration="2053000" />
+      <workItem from="1668221490743" duration="408000" />
+      <workItem from="1668222981475" duration="1282000" />
+      <workItem from="1668306775101" duration="3808000" />
+      <workItem from="1668321018930" duration="14644000" />
+      <workItem from="1668490177098" duration="331000" />
+      <workItem from="1668512451511" duration="2182000" />
+      <workItem from="1668576712074" duration="477000" />
+      <workItem from="1668600417652" duration="5321000" />
+      <workItem from="1668908443981" duration="2793000" />
+      <workItem from="1669870529785" duration="18000" />
+      <workItem from="1669870597796" duration="3645000" />
+      <workItem from="1669947853060" duration="16000" />
+      <workItem from="1670037946389" duration="2294000" />
+      <workItem from="1670041220910" duration="6529000" />
+      <workItem from="1670056741208" duration="4956000" />
+      <workItem from="1670120827868" duration="8000" />
+      <workItem from="1670127303606" duration="2641000" />
+      <workItem from="1670330504186" duration="9000" />
+      <workItem from="1670475182466" duration="3833000" />
+      <workItem from="1670553104474" duration="673000" />
+      <workItem from="1670645081479" duration="620000" />
+      <workItem from="1671167888572" duration="233000" />
+      <workItem from="1671169409555" duration="197000" />
+      <workItem from="1671248869155" duration="364000" />
+      <workItem from="1671250308536" duration="1046000" />
+      <workItem from="1671251973709" duration="768000" />
+      <workItem from="1671252872931" duration="25000" />
+      <workItem from="1671252967461" duration="3294000" />
+      <workItem from="1671503226264" duration="277000" />
+      <workItem from="1671507664535" duration="62000" />
+      <workItem from="1671509641020" duration="83000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1667476634941">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.672@0.0.1280.672" timestamp="1667476634941" />
+    <state x="233" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1667398123566">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="233" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.672@0.0.1280.672" timestamp="1667398123566" />
+    <state x="394" y="37" key="#com.intellij.ide.util.MemberChooser" timestamp="1669871753000">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="394" y="37" key="#com.intellij.ide.util.MemberChooser/0.0.1280.672@0.0.1280.672" timestamp="1669871753000" />
+    <state x="306" y="249" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1667279314014">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="306" y="249" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.672@0.0.1280.672" timestamp="1667279314014" />
+    <state x="419" y="199" width="443" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1668334899749">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="419" y="199" width="443" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.672@0.0.1280.672" timestamp="1668334899749" />
+    <state x="371" y="83" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1667476661160">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="371" y="83" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.672@0.0.1280.672" timestamp="1667476661160" />
+    <state x="421" y="91" key="FileChooserDialogImpl" timestamp="1671256382760">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="421" y="91" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1671256382760" />
+    <state width="1237" height="164" key="GridCell.Tab.0.bottom" timestamp="1671256383535">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="164" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1671256383535" />
+    <state width="1237" height="164" key="GridCell.Tab.0.center" timestamp="1671256383535">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="164" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1671256383535" />
+    <state width="1237" height="164" key="GridCell.Tab.0.left" timestamp="1671256383535">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="164" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1671256383535" />
+    <state width="1237" height="164" key="GridCell.Tab.0.right" timestamp="1671256383535">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="164" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1671256383535" />
+    <state width="1208" height="297" key="GridCell.Tab.1.bottom" timestamp="1671249235602">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1208" height="297" key="GridCell.Tab.1.bottom/0.0.1280.672@0.0.1280.672" timestamp="1671249235602" />
+    <state width="1208" height="297" key="GridCell.Tab.1.center" timestamp="1671249235602">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1208" height="297" key="GridCell.Tab.1.center/0.0.1280.672@0.0.1280.672" timestamp="1671249235602" />
+    <state width="1208" height="297" key="GridCell.Tab.1.left" timestamp="1671249235602">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1208" height="297" key="GridCell.Tab.1.left/0.0.1280.672@0.0.1280.672" timestamp="1671249235602" />
+    <state width="1208" height="297" key="GridCell.Tab.1.right" timestamp="1671249235602">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1208" height="297" key="GridCell.Tab.1.right/0.0.1280.672@0.0.1280.672" timestamp="1671249235602" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1667280047441">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.672@0.0.1280.672" timestamp="1667280047441" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1668908668142">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.672@0.0.1280.672" timestamp="1668908668142" />
+    <state x="412" y="118" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1667280612401">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="412" y="118" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.672@0.0.1280.672" timestamp="1667280612401" />
+    <state x="47" y="35" width="1224" height="617" key="new project wizard" timestamp="1671507724306">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="47" y="35" width="1224" height="617" key="new project wizard/0.0.1280.672@0.0.1280.672" timestamp="1671507724306" />
+    <state x="417" y="93" key="refactoring.ChangeSignatureDialog" timestamp="1668602971099">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="417" y="93" key="refactoring.ChangeSignatureDialog/0.0.1280.672@0.0.1280.672" timestamp="1668602971099" />
+    <state x="303" y="0" width="672" height="670" key="search.everywhere.popup" timestamp="1671255397409">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="303" y="0" width="672" height="670" key="search.everywhere.popup/0.0.1280.672@0.0.1280.672" timestamp="1671255397409" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="map" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
